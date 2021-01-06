@@ -1,5 +1,9 @@
-# Herbarium Image Download Script
+# Downloading Herbarium Images and Climate Data for CUREs
 
-Tutorial to download herbarium images from natural history museums for the morphology-related CURE. The cure lets students track morphological changes in Purple Loosestrife (*Lythrum salicaria*) between their native and invasive ranges.
+Two tutorials associated with the Purple Loosestrife Morphology CURE. See [here](https://serc.carleton.edu/dev/curenet/institutes/bceenet2020/examples/238252.html) for more information about the CURE and how this tutorial fits in.
 
-See [here](https://serc.carleton.edu/dev/curenet/institutes/bceenet2020/examples/238252.html) for more information about the CURE and how this tutorial fits in. 
+data_cleaning* tutorials show how to download herbarium images from natural history museums for the morphology-related CURE.
+
+climate_data* tutorials show how to downloaded climate data (from PRISM datasets) associated with herbarium specimens downloaded in the data_cleaning* tutorials.
+
+
