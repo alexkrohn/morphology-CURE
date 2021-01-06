@@ -4,6 +4,6 @@ Two tutorials associated with the Purple Loosestrife Morphology CURE. See [here]
 
 data_cleaning* tutorials show how to download herbarium images from natural history museums for the morphology-related CURE.
 
-climate_data* tutorials show how to downloaded climate data (from PRISM datasets) associated with herbarium specimens downloaded in the data_cleaning* tutorials.
+climate-data* tutorials show how to downloaded climate data (from PRISM datasets) associated with herbarium specimens downloaded in the data_cleaning* tutorials.
 
 
